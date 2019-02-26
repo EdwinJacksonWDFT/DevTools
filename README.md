@@ -1,9 +1,6 @@
 # DevTools
 A list of the development tools that I use
 
-# DevTools
-A list of the development tools that I use
-
 ## Chrome
 - [Wappylzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg) - Identifies the technologies that the current website is using. Not 100% accurate, but receives regular updates
 - [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) - Formats JSON in the browser to a human readable format.
